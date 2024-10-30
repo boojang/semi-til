@@ -4,7 +4,8 @@
 
 ### [10월 넷째주, 2주차] : 
 
-🍀 **[24.10.28]** [노트정리]())
+🍀 **[24.10.30]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.10.31.md))
+🍀 **[24.10.29]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.10.29.md))
 
 ### [10월 셋째주, 1주차] : html, css, git
 
