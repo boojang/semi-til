@@ -9,7 +9,7 @@
 4. 🍀 **[24.11.07]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.11.01.md)
 5. 🍀 **[24.11.08]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.11.01.md)
    
-### [10월 넷째주, 2주차] : 
+### [10월 넷째주, 2주차] : JS 응용
 1. 🍀 **[24.10.29]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.10.29.md)
 2. 🍀 **[24.10.30]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.10.31.md)
 3. 🍀 **[24.11.01]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.11.01.md)
