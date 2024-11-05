@@ -3,11 +3,11 @@
 ## 오늘 내가 배운 것들(Today I Learned)
 
 ### [11월 첫째주, 3주차] : 웹 응용
-1. 🍀 **[24.11.04]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.11.04.md)
-2. 🍀 **[24.11.05]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.11.05.md)
-3. 🍀 **[24.11.06]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.11.06.md)
-4. 🍀 **[24.11.07]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.11.07.md)
-5. 🍀 **[24.11.08]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.11.08.md)
+1. 🍀 **[24.11.04]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.04.md)
+2. 🍀 **[24.11.05]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.05.md)
+3. 🍀 **[24.11.06]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.06.md)
+4. 🍀 **[24.11.07]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.07.md)
+5. 🍀 **[24.11.08]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.08.md)
    
 ### [10월 넷째주, 2주차] : JS 응용
 1. 🍀 **[24.10.29]** [노트정리](https://github.com/boojang/semi-till/blob/main/Oct/24.10.29.md)
