@@ -5,7 +5,7 @@
 ### [11월 둘째주, 4주차] : React (+css,HTML)
 1. 🍀 **[24.11.11]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.11.md)
 2. 🍀 **[24.11.12]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.12.md)
-3. 🍀 **[24.11.13]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.13.md)
+3. 🍀 **[24.11.13]** :DOM vs Virtual DOM [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.13.md)
 4. 🍀 **[24.11.14]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.14.md)
 5. 🍀 **[24.11.15]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.15.md)
 
