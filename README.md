@@ -2,6 +2,13 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [11월 셋째주, 5주차] : 
+1. 🍀 **[24.11.18]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.18.md)
+2. 🍀 **[24.11.19]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.19.md)
+3. 🍀 **[24.11.20]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.20.md)
+4. 🍀 **[24.11.21]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.21.md)
+5. 🍀 **[24.11.22]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.22.md)
+
 ### [11월 둘째주, 4주차] : React (+css,HTML)
 1. 🍀 **[24.11.11]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.11.md)
 2. 🍀 **[24.11.12]** [노트정리](https://github.com/boojang/semi-till/blob/main/Nov/24.11.12.md)
