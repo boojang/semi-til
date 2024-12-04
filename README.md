@@ -4,7 +4,7 @@
 
 ### [12월 첫째주, 7주차] : 
 1. 🍀 **[24.12.03]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.03.md) (FE/BE 분리)
-2. 🍀 **[24.12.04]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.04.md)
+2. 🍀 **[24.12.04]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.04.md) (API Gateway)
 3. 🍀 **[24.12.05]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.05.md)
 4. 🍀 **[24.12.06]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.06.md)
 
