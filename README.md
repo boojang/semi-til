@@ -5,8 +5,8 @@
 ### [12월 둘째주, 8주차] : Docker
 1. 🍀 **[24.12.10]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.10.md) (Docker)
 2. 🍀 **[24.12.11]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.11.md) (DockerFile)
-3. 🍀 **[24.12.12]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.12.md)
-4. 🍀 **[24.12.13]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.13.md)
+3. 🍀 **[24.12.12]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.12.md) (bash /bin/bash)
+4. 🍀 **[24.12.13]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.13.md) (ghcr + gh)
 5. 🍀 **[24.12.14]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.13.md)
 
 ### [12월 첫째주, 7주차] : 
