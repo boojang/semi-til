@@ -2,12 +2,18 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [12월 둘째주, 8주차] : Docker
+### [12월 셋째주, 9주차] : Docker
+1. 🍀 **[24.12.16]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.16.md) (컨테이너 클러스터 복습)
+2. 🍀 **[24.12.17]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.17.md)
+3. 🍀 **[24.12.18]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.18.md) 
+4. 🍀 **[24.12.19]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.19.md)
+5. 🍀 **[24.12.20]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.20.md)
+
+### [12월 둘째주, 8주차] : Docker + k8s
 1. 🍀 **[24.12.10]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.10.md) (Docker)
 2. 🍀 **[24.12.11]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.11.md) (DockerFile)
 3. 🍀 **[24.12.12]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.12.md) (bash /bin/bash)
 4. 🍀 **[24.12.13]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.13.md) (ghcr + gh)
-5. 🍀 **[24.12.14]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.13.md)
 
 ### [12월 첫째주, 7주차] : 
 1. 🍀 **[24.12.03]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.03.md) (FE/BE 분리)
