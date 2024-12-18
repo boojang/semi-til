@@ -4,8 +4,8 @@
 
 ### [12월 셋째주, 9주차] : Docker
 1. 🍀 **[24.12.16]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.16.md) (컨테이너 클러스터 복습)
-2. 🍀 **[24.12.17]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.17.md)
-3. 🍀 **[24.12.18]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.18.md) 
+2. 🍀 **[24.12.17]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.17.md) (js::async 오류)
+3. 🍀 **[24.12.18]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.18.md) (로컬배포::ec2+PuTTY)
 4. 🍀 **[24.12.19]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.19.md)
 5. 🍀 **[24.12.20]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.20.md)
 
