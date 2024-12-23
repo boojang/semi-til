@@ -2,12 +2,18 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [12월 넷째주, 10주차] : 복습
+1. 🍀 **[24.12.23]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.23.md) (Blue/Green 배포)
+2. 🍀 **[24.12.24]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.24.md)
+3. 🍀 **[24.12.25]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.25.md)
+4. 🍀 **[24.12.26]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.26.md) 
+5. 🍀 **[24.12.27]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.27.md)
+
 ### [12월 셋째주, 9주차] : DB + Docker
 1. 🍀 **[24.12.16]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.16.md) (컨테이너 클러스터 복습)
 2. 🍀 **[24.12.17]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.17.md) (js::async 오류)
 3. 🍀 **[24.12.18]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.18.md) (로컬배포::ec2+PuTTY)
 4. 🍀 **[24.12.19]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.19.md) (DB : Foreing Key)
-5. 🍀 **[24.12.20]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.20.md)
 
 ### [12월 둘째주, 8주차] : Docker + k8s
 1. 🍀 **[24.12.10]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.10.md) (Docker)
