@@ -4,10 +4,7 @@
 
 ### [12월 넷째주, 10주차] : 복습
 1. 🍀 **[24.12.23]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.23.md) (Blue/Green 배포)
-2. 🍀 **[24.12.24]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.24.md)
-3. 🍀 **[24.12.25]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.25.md)
-4. 🍀 **[24.12.26]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.26.md) 
-5. 🍀 **[24.12.27]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.27.md)
+2. 🍀 **[24.12.27]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.27.md) (프록시 / 프록시 캐싱)
 
 ### [12월 셋째주, 9주차] : DB + Docker
 1. 🍀 **[24.12.16]** [노트정리](https://github.com/boojang/semi-till/blob/main/Dec/24.12.16.md) (컨테이너 클러스터 복습)
