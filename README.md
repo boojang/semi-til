@@ -6,7 +6,7 @@
 1. 🍀 **[25.01.13]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.13.md)
 2. 🍀 **[25.01.14]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.14.md) (CORS)
 3. 🍀 **[25.01.15]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.15.md) (Redis 개념)
-4. 🍀 **[25.01.16]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.16.md)
+4. 🍀 **[25.01.16]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.16.md) (FileReader, k8s)
 
 ### [1월 첫째주, 12주차] : k8s
 1. 🍀 **[25.01.06]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.06.md)
