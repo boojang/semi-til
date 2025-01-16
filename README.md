@@ -4,8 +4,8 @@
 
 ### [1월 둘째주, 13주차] : k8s
 1. 🍀 **[25.01.13]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.13.md)
-2. 🍀 **[25.01.14]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.14.md)
-3. 🍀 **[25.01.15]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.15.md)
+2. 🍀 **[25.01.14]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.14.md) (CORS)
+3. 🍀 **[25.01.15]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.15.md) (Redis 개념)
 4. 🍀 **[25.01.16]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.16.md)
 
 ### [1월 첫째주, 12주차] : k8s
