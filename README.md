@@ -2,6 +2,12 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [1월 셋째주, 14주차] : k8s
+1. 🍀 **[25.01.21]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.21.md)
+2. 🍀 **[25.01.22]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.22.md) 
+3. 🍀 **[25.01.23]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.23.md) 
+4. 🍀 **[25.01.24]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.24.md)
+
 ### [1월 둘째주, 13주차] : k8s
 1. 🍀 **[25.01.13]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.13.md)
 2. 🍀 **[25.01.14]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.14.md) (CORS)
