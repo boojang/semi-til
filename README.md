@@ -4,7 +4,7 @@
 
 ### [1월 셋째주, 14주차] : k8s
 1. 🍀 **[25.01.21]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.21.md) (VPC)
-2. 🍀 **[25.01.22]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.22.md) 
+2. 🍀 **[25.01.22]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.22.md) (Config,Secret)
 3. 🍀 **[25.01.23]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.23.md) 
 4. 🍀 **[25.01.24]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.24.md)
 
