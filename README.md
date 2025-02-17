@@ -2,6 +2,18 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [2월 셋째주, 17주차] :
+1. 🍀 **[25.02.17]** [노트정리](https://github.com/boojang/semi-till/blob/main/Feb/25.02.17.md) (기획)
+2. 🍀 **[25.02.18]** [노트정리](https://github.com/boojang/semi-till/blob/main/Feb/25.02.18.md)
+3. 🍀 **[25.02.19]** [노트정리](https://github.com/boojang/semi-till/blob/main/Feb/25.02.19.md) 
+4. 🍀 **[25.02.20]** [노트정리](https://github.com/boojang/semi-till/blob/main/Feb/25.02.20.md)
+
+### [2월 둘째주, 16주차] :
+
+### [2월 첫째주, 15주차] :
+
+### [1월 넷째주, 15주차] :
+
 ### [1월 셋째주, 14주차] : k8s
 1. 🍀 **[25.01.21]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.21.md) (VPC)
 2. 🍀 **[25.01.22]** [노트정리](https://github.com/boojang/semi-till/blob/main/Jan/25.01.22.md) (Config,Secret)
